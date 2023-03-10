@@ -35,3 +35,13 @@ This-text-will-be-red
 [cs15lwi23avo@ieng6-201]:~:502$
 ```
 This command works by changing the color of all the text into a different color once the command is used; even the next prompt becomes red. This would be useful to changing the color of the text to make it easier to see.
+
+**Printing out the name of the user**
+
+Source: [https://phoenixnap.com/kb/echo-command-linux](https://phoenixnap.com/kb/echo-command-linux)
+```
+[cs15lwi23avo@ieng6-201]:~:506$ echo $USER
+cs15lwi23avo
+[cs15lwi23avo@ieng6-201]:~:507$ 
+```
+This command works by printing out the name of the user. This command would be useful when you don't remember your username, so you want to get it printed. it would also be useful to get your username as an input for some type of function.
